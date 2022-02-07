@@ -2,7 +2,6 @@
 ![131216586-7fd26abc-14a0-4822-b764-d2873642d91f](https://user-images.githubusercontent.com/22757326/152718137-35c749d1-a0f9-4f5f-a097-ae2059c1199a.png)
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the ansible playbook file may be used to install only certain pieces of it, such as Filebeat. All the ansible configuration files and play book files can be found at link below:
 
-https://github.com/zwang126/AzureKibana_SIEM/tree/main/Ansible
 
 This document contains the following details:
 
